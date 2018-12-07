@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <FileZilla3><Servers><Server>
+			<Host>nipress.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>nipress</User>
+			<Pass encoding="base64"></Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>nipress.com</Name>
+			<Comments></Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>nipress.com
+		</Server></Servers></FileZilla3>
